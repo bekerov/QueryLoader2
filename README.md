@@ -1,4 +1,4 @@
-QueryLoader v2
+QueryLoader v2 Bekerov edit
 ==============
 
 QueryLoader v2 is a better version of the old script posted in 2009. It serves the main purpose of preloading the images on your website by showing an overlay and a loading bar. It automatically fetches all your images and background images and preloads them before showing the webpage.
